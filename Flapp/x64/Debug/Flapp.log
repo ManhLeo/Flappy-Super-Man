@@ -1,0 +1,15 @@
+﻿  Background.cpp
+  Bird.cpp
+  Flapp.cpp
+  Game.cpp
+  Land.cpp
+  Menu.cpp
+  Pipe.cpp
+C:\Users\Admin\Desktop\CTDT\HK3\PBLv2\PBL\Flapp\Pipe.cpp(57,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Score.cpp
+  Generating Code...
+  Flapp.vcxproj -> C:\Users\Admin\Desktop\CTDT\HK3\PBLv2\PBL\x64\Debug\Flapp.exe
